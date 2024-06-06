@@ -1,0 +1,1 @@
+{"name":"Local: Y_The_last_2_digits","url":"d:\\codeforces\\Practice\\jdkfjkdjf\\Y_The_last_2_digits.c","tests":[{"id":1713075258964,"input":"5 7 2 4","output":"80"},{"id":1713075283064,"input":"3 9 9 9","output":"87"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\codeforces\\Practice\\jdkfjkdjf\\Y_The_last_2_digits.c","group":"local","local":true}
